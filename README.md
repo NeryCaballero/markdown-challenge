@@ -2,20 +2,20 @@
 
 # Nery Caballero
 *In the middle of difficulty lies opportunity*
+
 *- Albert Einstein *
 
 ![3CABD451-DFD8-4307-8A11-3EF95369F7CE](https://user-images.githubusercontent.com/70692300/93601072-e5a42b80-f9c0-11ea-8b36-d47ee84a88bb.JPG)
 
 ## Me in one sentence
+
 > I am very curious.
 
 Birthday | 24-Nov
 ------------ | -------------
 Favorite Color | All Shades of Green
------------- | -------------
 Favorite Food | Greek
------------- | -------------
-Pinneapple on pizza | [x] Hell Yes , [] No 
+Pinneapple on pizza | [x] Hell Yes , [ ] No 
 
 ### Hobbies
 
