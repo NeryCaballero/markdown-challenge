@@ -39,13 +39,16 @@
 ### You can always count on me ...
 
 Whenever you need a dosis of cheering up! 
+
 **We Can Do This!! YEAH!**
+
 But how ? .. that we will figure out ensemble :)
 
 
 ### A funny story :
 
 Not long ago I discovered I had been telling people for months *"Merci beau cul"* instead of *"Merci beaucoup"* :joy: :joy: :joy:
+
 :flushed: How embarrassing!!! :flushed:
 
 ##### Bottom line :
