@@ -3,19 +3,19 @@
 # Nery Caballero
 *In the middle of difficulty lies opportunity*
 
-*- Albert Einstein *
+*Albert Einstein*
 
 ![3CABD451-DFD8-4307-8A11-3EF95369F7CE](https://user-images.githubusercontent.com/70692300/93601072-e5a42b80-f9c0-11ea-8b36-d47ee84a88bb.JPG)
 
 ## Me in one sentence
 
-> I am very curious.
+**I am very curious.**
 
-Birthday | 24-Nov
------------- | -------------
-Favorite Color | All Shades of Green
-Favorite Food | Greek
-Pinneapple on pizza | [x] Hell Yes , [ ] No 
+
+| Birthday | Favorite Color | Favorite Food | Pineapple on Pizza |
+|---|---|---|---|
+| 24-Nov | All Shades of Green | Greek | [x] Hell Yes , [ ] No |
+ 
 
 ### Hobbies
 
@@ -43,11 +43,12 @@ Whenever you need a dosis of cheering up!
 But how ? .. that we will figure out ensemble :)
 
 
-### A funny story 
+### A funny story :
+
 Not long ago I discovered I had been telling people for months *"Merci beau cul"* instead of *"Merci beaucoup"* :joy: :joy: :joy:
 :flushed: How embarrassing!!! :flushed:
 
-##### Summary
+##### Bottom line :
 *Laugh at your mistakes, but learn from them!*
 
  
